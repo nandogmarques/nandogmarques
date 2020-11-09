@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Nando's GitHub stats](https://github-readme-stats.vercel.app/api?username=GALSANTA&show_icons=true&theme=radical)
+<img height="300" src="https://github.com/GALSANTA/GALSANTA/blob/main/octocat.png"/>
