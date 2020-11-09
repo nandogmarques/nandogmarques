@@ -17,6 +17,7 @@
 * Curso ciência da computação na Universidade Federal de Campina Grande - Brasil
 * Formado em técnico em informática pelo Instituto Federal da Bahia - Brasil
 * Gosto de animes
+<img height="50" src="https://github.com/GALSANTA/GALSANTA/blob/main/onepiece.gif"/>
 * Gosto de política
 
 
