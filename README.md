@@ -14,7 +14,7 @@
 
 ## About me
 
-* Curso ciência da computação na Universidade Federal de Campina Grande - Brasil
+* Cursando ciência da computação na Universidade Federal de Campina Grande - Brasil
 * Formado em técnico em informática pelo Instituto Federal da Bahia - Brasil
 * Gosto de animes: Chorei por um navio em one piece
 * Gosto de política
