@@ -9,9 +9,8 @@
 ## My Stats
 
 ![Nando's GitHub stats](https://github-readme-stats.vercel.app/api?username=GALSANTA&show_icons=true&theme=radical)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GALSANTA&layout=compact&theme=radical" />
-</a>
+![Nando's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GALSANTA&layout=compact&theme=radical)
+
 
 ## About me
 
