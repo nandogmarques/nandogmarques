@@ -14,9 +14,10 @@
 
 ## About me
 
-* Cursando ciência da computação na Universidade Federal de Campina Grande - Brasil
+* Graduating computer science at Universidade Federal de Campina Grande - Brazil
 * Formado em técnico em informática pelo Instituto Federal da Bahia - Brasil
-* Gosto de animes: Chorei por um navio em one piece
-* Gosto de política
+* Graduated in computer technician from Instituto Federal da Bahia - Brasil
+* I like anime: I cried for a ship in one piece
+* I like politics
 
 
