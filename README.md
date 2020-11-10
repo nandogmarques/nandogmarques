@@ -1,5 +1,12 @@
 <h1 align="center"> <img height="50" src="https://github.com/GALSANTA/GALSANTA/blob/main/brasil.gif"/>  Hello, I'm  Nando. <img height="60" src="https://github.com/GALSANTA/GALSANTA/blob/main/pikachu2.gif"/> </h1> 
 
+
+## About me
+
+* Graduating computer science at Universidade Federal de Campina Grande - Brazil
+* Graduated in computer technician from Instituto Federal da Bahia - Brazil
+* I like anime: I cried for a ship in one piece
+* I like politics
 ## Technologies
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -12,11 +19,5 @@
 ![Nando's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GALSANTA&layout=compact&theme=radical)
 
 
-## About me
-
-* Graduating computer science at Universidade Federal de Campina Grande - Brazil
-* Graduated in computer technician from Instituto Federal da Bahia - Brazil
-* I like anime: I cried for a ship in one piece
-* I like politics
 
 
