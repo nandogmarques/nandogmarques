@@ -5,13 +5,12 @@
 
 * Graduated in computer technician from Instituto Federal da Bahia - Brazil
 * Graduating computer science at Universidade Federal de Campina Grande - Brazil
-* Cybersecurity researcher at Laboratório de Sistemas Distribuídos. Project by [HPE](https://github.com/HewlettPackard)/[EMBRAPII](https://embrapii.org.br/) 2021-2024.
-* I love one piece <img width="40" height="40" src="./one.gif"/>
-* I like politics
+* Research and Development (R&D) at Laboratório de Sistemas Distribuídos. Project by [HPE](https://github.com/HewlettPackard) / [EMBRAPII](https://embrapii.org.br/) 2021-2024.
 
 ## Pappers
 
 * [Attesting AMD SEV-SNP Virtual Machines with SPIRE](https://dl.acm.org/doi/10.1145/3615366.3615419)
+* [Interoperable node integrity verification for confidential machines based on AMD SEV-SNP](https://journals-sol.sbc.org.br/index.php/jisa/article/view/3905)
 
 ## Technologies
 
