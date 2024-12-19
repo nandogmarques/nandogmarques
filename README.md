@@ -11,6 +11,8 @@
 
 * [Attesting AMD SEV-SNP Virtual Machines with SPIRE](https://dl.acm.org/doi/10.1145/3615366.3615419)
 * [Interoperable node integrity verification for confidential machines based on AMD SEV-SNP](https://journals-sol.sbc.org.br/index.php/jisa/article/view/3905)
+* [Multi-Platform and Vault-Free Attestation of Confidential VMs](https://dl.acm.org/doi/10.1145/3697090.3698036)
+
 
 ## Technologies
 
