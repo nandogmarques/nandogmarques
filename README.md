@@ -3,8 +3,8 @@
 
 ## About me
 
-* Graduated in computer technician from Instituto Federal da Bahia - Brazil
-* Graduating computer science at Universidade Federal de Campina Grande - Brazil
+* Graduated in Computer Technician from Instituto Federal da Bahia - Brazil
+* Graduated in Computer Science from Universidade Federal de Campina Grande - Brazil
 * Research and Development (R&D) at Laboratório de Sistemas Distribuídos. Project by [HPE](https://github.com/HewlettPackard) / [EMBRAPII](https://embrapii.org.br/) 2021-2024.
 
 ## Pappers
